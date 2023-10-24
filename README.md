@@ -118,3 +118,8 @@ Matriz de Cambio al Sistema de Referencias Mundial:
 ### 15.¿Como puedes calcular las coordenadas del sistema de referencia de un objeto con las siguientes propiedades del Transform? Position (3, 1, 1), Rotation (45, 0, 45)
 
 Si tienes un objeto con Position (3, 1, 1) y Rotation (45, 0, 45), la matriz de transformación que representa estas transformaciones en relación al sistema de referencia mundial es simplemente su matriz ```localToWorldMatrix```. La rotación se aplica usando quaterniones, por lo que ```Quaternion.Euler(45, 0, 45)``` te da la rotación deseada.
+
+#### Participantes:
+- Daniel Méndez Rodríguez
+- Jose Lozano Armas
+- Julio Emanuel Ruzicka Ruzicka
