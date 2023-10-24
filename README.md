@@ -123,3 +123,4 @@ Si tienes un objeto con Position (3, 1, 1) y Rotation (45, 0, 45), la matriz de 
 - Daniel Méndez Rodríguez
 - Jose Lozano Armas
 - Julio Emanuel Ruzicka Ruzicka
+- Jose Gregorio Dorta Luis
